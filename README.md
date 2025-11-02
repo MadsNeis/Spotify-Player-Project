@@ -1,3 +1,13 @@
+<h2>About This Project</h2>
+
+This project creates a Spotify music player that utilizes external API with a token, redis caching, and embeded players. 
+
+Returns album art, track name, and artist! 
+
+Uses next.js framework and TypeScript.
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
