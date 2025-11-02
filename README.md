@@ -6,6 +6,8 @@ Returns album art, track name, and artist!
 
 Uses next.js framework and TypeScript.
 
+![Spotify Player Example Photo](SPPExample.png)
+
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
