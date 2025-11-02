@@ -1,6 +1,6 @@
 <h2>About This Project</h2>
 
-This project creates a Spotify music player that utilizes external API with a token, redis caching, and embeded players. 
+This project creates a Spotify music player that utilizes external API with a token, redis caching, and embedded players. 
 
 Returns album art, track name, and artist! 
 
